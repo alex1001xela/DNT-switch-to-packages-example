@@ -1,0 +1,13 @@
+{
+  "solution": "MainApp.sln",
+  "mappings": {
+    "ClassLibrary1": {
+      "version": "0.0.1",
+      "path": "../ClassLibrary1/ClassLibrary1/ClassLibrary1.csproj"
+    },
+    "ClassLibrary2": {
+      "version": "0.0.1",
+      "path": "../ClassLibrary2/ClassLibrary2/ClassLibrary2.csproj"
+    }
+  }
+}
